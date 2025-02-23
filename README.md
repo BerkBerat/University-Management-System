@@ -50,8 +50,5 @@ Contributions are welcome! To contribute:
    ```
 5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For any inquiries, reach out to [your email or contact details].
+For any inquiries, reach out to [brkberatturan@gmail.com].
